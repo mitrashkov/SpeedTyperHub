@@ -1,1 +1,1 @@
-# SpeedTyperHub
+# SpeedTyperHub BETA
